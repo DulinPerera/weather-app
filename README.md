@@ -1,2 +1,2 @@
 # weather-app
- Weather app usins html css js
+ Weather app using html css js and API key
